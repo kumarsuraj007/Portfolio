@@ -1,0 +1,154 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 100px;
+    color: #66BFBF;
+}
+
+h2{
+    font-family: 'Montserrat';
+    margin: 0;
+    font-size: 30px;
+    color: #66BFBF;
+}
+
+h3{
+    font-family: 'Montserrat';
+    color: #66BFBF;
+}
+
+hr{
+    border: none;
+    border-top: dotted;
+    border-width: 5px;
+    border-color: rgb(157, 157, 157);
+    width: 5%;
+    margin-top: 80px;
+}
+
+p{
+    color: #40514E;
+}
+
+.top-container{
+    margin: 0;
+    padding: 0;
+    background-color: #E7F6F2;
+    position: relative;
+    padding-top: 100px;
+    line-height: 2;
+}
+
+.middle-container{
+    margin-top: 50px;
+}
+
+.bottom-container{
+    margin-top: 100px;
+    background-color: #66BFBF;
+    height: 200px;
+}
+
+.skills{
+    margin-top: 80px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.code-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.mixer-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.profile-img{
+    width: 10%;
+}
+
+.contact-me{
+    margin-top: 80px;
+}
+
+.btn {
+    background: #66BFBF;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #11999E;
+    text-decoration: none;
+  }
+
+  .btn-container{
+    margin-top: 50px;
+  }
+
+  .contact-me-h3{
+    padding-top: 20px;
+    font-weight: bold;
+  }
+
+  .contact-me-p{
+    padding-top: 20px;
+  }
+
+.footer-link{
+    text-decoration: none;
+    margin: 20px;
+    color: #11999E;
+    cursor: pointer;
+  }
+
+  .link-container{
+    padding-top: 50px;
+  }
+
+  .copyright{
+    padding-top: 20px;
+    color: white;
+  }
+
+
+
+
+
+
+
+
